@@ -1,0 +1,5 @@
+# Minimal gitignore for Rust projects
+# See https://github.com/github/gitignore/blob/master/Rust.gitignore
+# for a more comprehensive version
+target/
+*.rs.bk
